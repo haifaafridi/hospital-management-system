@@ -124,7 +124,8 @@ INSERT INTO Ambulance VALUES ("AMB-001", "Basic Life Support", "Available", "030
 INSERT INTO EMP_INFO VALUES ("Doctor 1", "38", "03376538653", "158,000", "dr@gmail.com", "23");
 -- More employees...
 
-![Project Structure Screenshot](![img.png](src/icon/img.png)icon/img.png)
+![Project Structure Screenshot](src/icon/img.png)
+
 
 The following dependencies were added to the project:
 
