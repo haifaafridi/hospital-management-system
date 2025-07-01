@@ -126,7 +126,7 @@ INSERT INTO EMP_INFO VALUES ("Doctor 1", "38", "03376538653", "158,000", "dr@gma
 
 
 
-![image alt](https://github.com/haifao-ok/hospital-management-system/blob/3c2baf9aa7e2ba70c8be208e2ae5bf8a9aedc489/project.png)
+![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/project.png?raw=true)
 
 The following dependencies were added to the project:
 
