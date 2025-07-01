@@ -124,7 +124,7 @@ INSERT INTO Ambulance VALUES ("AMB-001", "Basic Life Support", "Available", "030
 INSERT INTO EMP_INFO VALUES ("Doctor 1", "38", "03376538653", "158,000", "dr@gmail.com", "23");
 -- More employees...
 
-![Project Structure Screenshot](https://raw.githubusercontent.com/haifao-ok/hospital-management-system/main/Screenshot 2025-07-01 211441.png)
+![Project Structure Screenshot](https://raw.githubusercontent.com/haifao-ok/hospital-management-system/main/Screenshot2025-07-01211441.png)
 
 
 
