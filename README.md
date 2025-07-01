@@ -126,9 +126,6 @@ INSERT INTO EMP_INFO VALUES ("Doctor 1", "38", "03376538653", "158,000", "dr@gma
 
 
 
-![Screenshot](https://raw.githubusercontent.com/haifao-ok/hospital-management-system/main/project.png)
-
-
 The following dependencies were added to the project:
 
 ✅ mysql-connector-java-8.0.28.jar
