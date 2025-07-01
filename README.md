@@ -124,7 +124,8 @@ INSERT INTO Ambulance VALUES ("AMB-001", "Basic Life Support", "Available", "030
 INSERT INTO EMP_INFO VALUES ("Doctor 1", "38", "03376538653", "158,000", "dr@gmail.com", "23");
 -- More employees...
 
-![img.png](img.png)
+![Project Structure Screenshot](icon/img.png)
+
 The following dependencies were added to the project:
 
 ✅ mysql-connector-java-8.0.28.jar
