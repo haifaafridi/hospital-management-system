@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -25,34 +28,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ALL_Patient_Info.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ambulance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee_info.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reception (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.patient_discharge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.update_patient_details.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Haifa Afridi/Downloads/rs2xml.jar&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;F:/project/Hospital management system/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.21494253&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ALL_Patient_Info.executor": "Run",
+    "Application.Ambulance.executor": "Run",
+    "Application.Employee_info.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Reception (1).executor": "Run",
+    "Application.patient_discharge.executor": "Run",
+    "Application.update_patient_details.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Haifa Afridi/Downloads/rs2xml.jar",
+    "onboarding.tips.debug.path": "F:/project/Hospital management system/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.21494253"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Haifa Afridi\Downloads\Hospital management system\Hospital management system\src\icon" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Haifa Afridi\IdeaProjects\Hospital Management System\src\Icon\Hospital management system\src\icon" />
       <recent name="C:\Users\Haifa Afridi\Downloads\Hospital management system\Hospital management system\src\icon" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Reception (1)">
+  <component name="RunManager" selected="Application.Login">
     <configuration name="ALL_Patient_Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hospital.management.system.ALL_Patient_Info" />
       <module name="Hospital management system" />
@@ -120,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reception (1)" />
         <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Reception (1)" />
         <item itemvalue="Application.Ambulance" />
         <item itemvalue="Application.patient_discharge" />
         <item itemvalue="Application.ALL_Patient_Info" />
