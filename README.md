@@ -8,27 +8,40 @@ This is a **Java GUI-based Hospital Management System** created as part of my **
 
 ###  Login System
 - Secure login functionality for staff using MySQL-based credentials.
+![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/login.png?raw=true)
 
 ###  Patient Management
 - Add new patient with ID, disease, room assignment, and deposit.
+![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/new%20patient%20form.png?raw=true)
+
 - View all patients with details.
+![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/patient%20details.png?raw=true)
+
 - Update patient details like room, deposit, admission time.
+![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/update%20patient%20details.png?raw=true)
+
 - Discharge patients (automatically updates room availability).
+  ![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/checkout.png?raw=true)
 
 ###  Room Management
-- View all hospital rooms with current availability and pricing.
+- View all hospital rooms with current availability.
 - Search rooms by availability (Available / Occupied).
 - Auto-update room status upon patient admission/discharge.
+ ![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/search%20room.png?raw=true)
+
+ ![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/room%20info.png?raw=true)
 
 ###  Ambulance Module
 - View ambulance ID, type (Basic/Advanced Life Support), availability, and contact number.
+  ![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/ambulance.png?raw=true)
 
 ###  Employee Information
 - View all employees including name, age, phone, salary, Gmail, and ID.
+ ![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/employee%20info.png?raw=true)
 
 ###  Department Listing
 - Access list of hospital departments and their phone numbers.
-
+ ![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/departments.png?raw=true)
 ---
 
 ## 🛠 Tech Stack
