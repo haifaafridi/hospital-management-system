@@ -126,13 +126,11 @@ Run Login.java to start the system.
 
 📸 Sample UI
 
-📚 Author
+Author
 Haifa Afridi
-Computer Engineering Student, NUST
+Computer Software Engineering Student, NUST
 First-Year Programming Project (2025)
 
-🌟 Acknowledgements
-Special thanks to our faculty for guidance.
 
 Libraries: rs2xml.jar for JTable integration.
 
