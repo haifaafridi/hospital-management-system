@@ -120,7 +120,7 @@ Make sure you’ve added the following JAR files to your classpath (as seen in *
 
 - [`mysql-connector-java-8.0.28.jar`](https://dev.mysql.com/downloads/connector/j/)
 - `rs2xml.jar` – used to convert `ResultSet` to `JTable`
-
+![image alt](https://github.com/haifao-ok/hospital-management-system/blob/main/assets/project_structure.png?raw=true)
 ---
 
 ##  How to Run
