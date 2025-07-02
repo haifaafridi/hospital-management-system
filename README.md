@@ -137,10 +137,8 @@ Add the JDBC JAR files to the module dependencies.
 
 Run Login.java to start the system.
 
-📸 Sample UI
-
 Author
-Haifa Afridi
+Haifa Khan Afridi
 Computer Software Engineering Student, NUST
 First-Year Programming Project (2025)
 
