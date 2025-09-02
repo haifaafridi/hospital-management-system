@@ -2,7 +2,7 @@
 
 This is a **Java GUI-based Hospital Management System** created as part of my **first-year programming project at NUST**. It provides basic hospital operations management such as patient registration, room allocation, employee info, ambulance tracking, and department listings — all through a simple, intuitive interface built using **Java Swing** and **MySQL**.
 
----
+
 
 ##  Features
 
